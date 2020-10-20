@@ -1,0 +1,13 @@
+div {
+    margin-bottom: .5rem;
+    font-family: inherit;
+    font-weight: 500;
+    line-height: 1.2;
+    color: inherit;
+    font-size: 1.25rem;
+}
+
+.weather {
+    width: 150px;
+    height: 150px;
+}
